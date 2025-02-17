@@ -4,9 +4,9 @@
 # Recursion
 
 ### Assignment:
-- Update factorial.c and reverse.c following assignment description provided in HomeworkAssignment_Week5.pdf (uploaded on Laulima)
+- Update factorial.c, reverse.c and nlp.c following assignment description provided in HomeworkAssignment_Week5.pdf (uploaded on Laulima)
 
-**NOTE**: Github is not a place to test your code. Test it on your machines first. Autograding will be disabled if you exceed 10 commits. We will start out by sending emails to you personally if you exceed 10 commits, and eventually penalizing your grade.
+**NOTE**: Github is not a place to test your code. Test it on your machines first. Do not exceed 15 commits or your grades will be penalized.
 
 ### Steps to submit changes:
 1. Click on desired .c to open file
@@ -32,4 +32,4 @@ Make sure you have your final submission in before the deadline has passed.
 
 You will not be able to submit changes after the deadline has passed.
 
-For any questions, please reach out to Dr. Katy Tarrit (katytm7@hawaii.edu) AND Rajan Sawhney (rsawhney@hawaii.edu)
+For any questions, please reach out to Dr. Katy Tarrit (katytm7@hawaii.edu) AND Aditi Jaiswal (ajaiswal@hawaii.edu)
