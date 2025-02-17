@@ -1,5 +1,5 @@
 /*
-Write a C program that finds the factorial of a number, provided by the user, using recursion (the function calls itself).
+Write a C program that finds the factorial of a positive number, provided by the user, using recursion (the function calls itself).
 
 
 NOTE:
