@@ -3,7 +3,7 @@
 
   You must:
   - remove stopwords
-  - count the words in the processed sentence
+  - count the words in the sentence
   - count vowels, uppercase and lowercase letters
   - make sure the function calls are correct
 
